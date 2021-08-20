@@ -1,0 +1,31 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8fdb7ba-560d-4fd7-a50a-b63825eef57c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8fdb7ba-560d-4fd7-a50a-b63825eef57c/Untitled.png)
+
+## List
+
+- List 에는 ArrayList, Vector, LinkedList, Stack, Queue가 있다.
+- 데이터가 순서대로 저장 되며 찾기가 수월하다.
+- 검색 및 삭제가 가능하며 중복이 가능하다
+- 
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4fea776-b500-451e-9aac-5d3a5bc79967/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4fea776-b500-451e-9aac-5d3a5bc79967/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dd75c19-7cd7-4be1-b837-516f10a7c78f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6dd75c19-7cd7-4be1-b837-516f10a7c78f/Untitled.png)
+
+## Set
+
+- HashSet, TreeSet 이 있으며 TreeSet는 이진 트리 구조로 되어있다.
+- 저장 순서가 유지되지 않습니다.
+- 중복이 안되며 null 도 저장이 가능하다
+- 
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe14850b-e884-4bdc-aa46-942ccb281bc0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fe14850b-e884-4bdc-aa46-942ccb281bc0/Untitled.png)
+
+## Map
+
+- HashMap, HashTable, TreeMap, Properties
+- key와 value로 구성된 객체를 저장하고 있다.
+- key는 중복이 안되고 value는 중복이 가능하다. 만약 key에 중복이 발생하면 기존에 있던 key는 없어지고 새로운 key값이 저장된다.
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44cefe9a-8da1-4c24-8597-edcc8304512a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44cefe9a-8da1-4c24-8597-edcc8304512a/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/282fd47e-9ae6-414a-a8b0-7e22a4acdcec/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/282fd47e-9ae6-414a-a8b0-7e22a4acdcec/Untitled.png)
